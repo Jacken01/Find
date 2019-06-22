@@ -18,5 +18,5 @@ npm run build
 npm run build --report
 ```
 
-社团详情-中间使用better-scroll进行滑动观看
-#![CorDetail](https://github.com/Jacken01/Vue-Project-Find/blob/master/CorDetail.PNG)
+#社团详情-中间使用better-scroll进行滑动观看
+![CorDetail](https://github.com/Jacken01/Vue-Project-Find/blob/master/CorDetail.PNG)
