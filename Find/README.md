@@ -17,6 +17,7 @@ npm run build
 # build for production and view the bundle analyzer report
 npm run build --report
 ```  
-##社团详情  
+社团详情
+-------
 ![CorDetail](https://github.com/Jacken01/Vue-Project-Find/blob/master/CorDetail.PNG)  
 ![CorList](https://github.com/Jacken01/Vue-Project-Find/blob/master/CorList.PNG)
