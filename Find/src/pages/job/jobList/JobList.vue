@@ -46,13 +46,6 @@ export default {
   },
   mounted () {
     this.scroll = new Bscroll(this.$refs.search, {click: true, tap: true, mouseWheel: true})
-    this.scroll.scrollTo(0, -33)
-    console.log(this.scroll.y)
-    this.scroll.haaVerticalScroll = true
-  },
-  beforeRouteLeave (to, from, next) {
-    console.log(this.scroll.y)
-    next()
   }
 }
 </script>

@@ -1,6 +1,6 @@
-# travel
+# Find
 
-> A Vue.js project
+> 一个为大学生提供寻找兼职和社团的平台。学生注册登录后即可查看兼职信息，查看心仪的社团信息并报名，学生亦可发布兼职，管理个人信息。社团登录后可管理社团信息，查看报名的学生信息。
 
 ## Build Setup
 
@@ -17,5 +17,3 @@ npm run build
 # build for production and view the bundle analyzer report
 npm run build --report
 ```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
