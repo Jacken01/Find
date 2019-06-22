@@ -17,7 +17,9 @@ npm run build
 # build for production and view the bundle analyzer report
 npm run build --report
 ```  
-社团详情
+社团详情-该组件共3个组件组成，中间的组件使用better-scroll进行活动展示页面
 -------
-![CorDetail](https://github.com/Jacken01/Vue-Project-Find/blob/master/CorDetail.PNG)  
+![CorDetail](https://github.com/Jacken01/Vue-Project-Find/blob/master/CorDetail.PNG)   
+社团列表-该组件使用awesome-swiper插件，用户可以左右滑动查看社团列表  
+---------------------------------------------------------------
 ![CorList](https://github.com/Jacken01/Vue-Project-Find/blob/master/CorList.PNG)
