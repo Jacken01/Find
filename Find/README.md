@@ -18,3 +18,4 @@ npm run build
 npm run build --report
 ```
 ![CorDetail](https://github.com/Jacken01/Vue-Project-Find/blob/master/CorDetail.PNG)
+![CorList](https://github.com/Jacken01/Vue-Project-Find/blob/master/CorList.PNG)
